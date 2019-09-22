@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">gank.io</domain>
+        <domain includeSubdomains="ture">ww4.sinaimg.cn</domain>
+        <domain includeSubdomains="ture">ww1.sinaimg.cn</domain>
+        <domain includeSubdomains="ture">ww2.sinaimg.cn</domain>
+
+    </domain-config>
+</network-security-config>
